@@ -1,0 +1,27 @@
+{
+  "name": "angular-app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx @angular/cli@21 serve --open",
+    "build": "npx @angular/cli@21 build",
+    "test": "npx @angular/cli@21 test",
+    "lint": "npx @angular/cli@21 lint"
+  },
+  "dependencies": {
+    "@angular/animations": "^21.0.0",
+    "@angular/common": "^21.0.0",
+    "@angular/compiler": "^21.0.0",
+    "@angular/core": "^21.0.0",
+    "@angular/forms": "^21.0.0",
+    "@angular/platform-browser": "^21.0.0",
+    "@angular/platform-browser-dynamic": "^21.0.0",
+    "rxjs": "^7.8.0",
+    "zone.js": "^0.16.2"
+  },
+  "devDependencies": {
+    "@angular/cli": "^21.0.0",
+    "@angular-devkit/build-angular": "^21.0.0",
+    "typescript": "^5.3.0"
+  }
+}
