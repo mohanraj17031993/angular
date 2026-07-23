@@ -1,0 +1,12 @@
+.app-banner {
+  text-align: center;
+  padding: 2rem 1rem;
+  background: #f9f9f9;
+  border-radius: 0.5rem;
+  margin: 1.5rem auto;
+  max-width: 800px;
+}
+
+.app-banner h2 {
+  margin-bottom: 0.75rem;
+}
